@@ -17,6 +17,6 @@ http://findmyfacebookid.com
 To install the Requests module, go to the following URL below:
 <code>http://docs.python-requests.org/en/latest/</code>
 
-Once extrtacted, run <code>python setup.py install</code> and then check if the module is installed by typing help('modules') in Python.
+Once extracted, run <code>python setup.py install</code> and then check if the module is installed by typing help('modules') in Python.
 
 I will write a tutorial on this in the future on my website: https://chadd.ie
