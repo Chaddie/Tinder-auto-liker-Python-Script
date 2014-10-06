@@ -14,7 +14,7 @@ You can get a Facebook Access token by going to the following URL and copying wh
 You can find out your facebook ID by going to this URL and entering your Facebook profile vanity URL:
 http://findmyfacebookid.com
 
-To install the Requests module, go to the following URL below:
+To install the Requests module, go to the following URL:
 <code>http://docs.python-requests.org/en/latest/</code>
 
 Once extracted, run <code>python setup.py install</code> and then check if the module is installed by typing help('modules') in Python.
