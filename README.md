@@ -5,9 +5,11 @@ You will need to install the requests module for Python in order to run this scr
 
 
 
-You can get a Facebook Access token from the following URL:
+You can get a Facebook Access token by going to the following URL and copying what appears in the address bar and then extracting the token from the URL string.
 
 <code>https://www.facebook.com/dialog/oauth?client_id=464891386855067&redirect_uri=https://www.facebook.com/connect/login_success.html&scope=basic_info,email,public_profile,user_about_me,user_activities,user_birthday,user_education_history,user_friends,user_interests,user_likes,user_location,user_photos,user_relationship_details&response_type=token</code>
+
+
 
 You can find out your facebook ID by going to this URL and entering your Facebook profile vanity URL:
 http://findmyfacebookid.com
